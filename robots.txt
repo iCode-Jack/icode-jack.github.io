@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icode-jack.github.io/sitemap.xml
